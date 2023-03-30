@@ -1,0 +1,4 @@
+https://beta.openai.com/account/api-keys
+
+
+chave gpt = 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
